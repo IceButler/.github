@@ -37,3 +37,21 @@
 
 ## 📱 앱 다운로드
  - 🍎 [AppStore](https://apps.apple.com/kr/app/%EB%83%89%EC%A7%91%EC%82%AC-%EB%83%89%EC%9E%A5%EA%B3%A0%EB%A5%BC-%EC%A7%80%EC%BC%9C%EC%A3%BC%EB%8A%94-%EB%82%98%EB%A7%8C%EC%9D%98-%EC%A7%91%EC%82%AC/id6449660911)
+
+<br><br>
+## 😺 집사들
+|[김나연](https://github.com/Nya128)|[김민기](https://github.com/dangnak2)|[김초원](https://github.com/ryr0121)|[박서연](https://github.com/psyeon1120)|
+|:---:|:---:|:---:|:---:|
+|<img src="https://github.com/Nya128.png" width="180" height="180" >|<img src="https://github.com/dangnak2.png" width="180" height="180" >|<img src="https://github.com/ryr0121.png" width="180" height="180" >|<img src="https://github.com/psyeon1120.png" width="180" height="180">|
+| **iOS Developer <br> Framework Leader** | **Server Developer <br> DB Developer**| **iOS Developer <br> Framework Leader** | **Project Manager <br> Server Developer <br> Web Developer** |
+
+|[박소정](https://github.com/sojungpp)|[웃크](https://github.com/utku1989)|[이승학](https://github.com/leeseunghakhello)|[이찬영](https://github.com/kingchan223)|
+|:---:|:---:|:---:|:---:|
+|<img src="https://github.com/sojungpp.png" width="180" height="180" >|<img src="https://github.com/utku1989.png" width="180" height="180" >|<img src="https://github.com/leeseunghakhello.png" width="180" height="180" >|<img src="https://github.com/kingchan223.png" width="180" height="180">|
+| **Project Manager <br> Server Developer <br> Web Developer** | **Server Developer <br> Quality Assurance**| **Server Developer <br> Framework Leader** | **Server Architect <br> Server Developer** |
+
+|[장채은](https://github.com/chaerlo127)|[차유상](https://github.com/chayoosang)|[냉집사](https://github.com/IceButler)|
+|:---:|:---:|:---:|
+|<img src="https://github.com/chaerlo127.png" width="180" height="180" >|<img src="https://github.com/chayoosang.png" width="180" height="180" >|<img src="https://github.com/IceButler.png" width="180" height="180">|
+| **Server Developer <br> DB Developer <br> Web Developer** | **iOS Architect <br> iOS Developer**| **ICE BUTLER** |
+
